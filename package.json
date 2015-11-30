@@ -1,0 +1,23 @@
+{
+  "name": "pretty-json",
+  "version": "1.0.0",
+  "description": "Simple library to render/format a JS obj to an HTML view.",
+  "main": "build/pretty-json-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankgoyal/pretty-json.git"
+  },
+  "keywords": [
+    "JSON",
+    "HTML"
+  ],
+  "author": "warfares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankgoyal/pretty-json/issues"
+  },
+  "homepage": "https://github.com/mayankgoyal/pretty-json#readme"
+}
